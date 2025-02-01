@@ -19,7 +19,7 @@ a:hover {
 
 #logo-container {
     /* Change me! */
-    background-image: url('image-examples/Logo-example.png');
+    background-image: url('https://thumbs.dreamstime.com/b/dog-cat-sitting-together-watching-sunset-over-ocean-331924424.jpg');
     
     /* Centers the image */
     background-position: center center;
@@ -33,7 +33,7 @@ a:hover {
 
     /* Change me! */
     /* If you want to change back: ivory */
-    background-color: ivory;
+    background-color: rgb(255, 255, 255);
     border-radius: 100%;
 
 }
@@ -45,7 +45,7 @@ a:hover {
 
     /* Change me! */
     /* If you want to change back: #7D1128 */
-    background-color: #7D1128;
+    background-color: #8d2910;
 }
 
 #header-name {
@@ -134,4 +134,3 @@ a:hover {
     /* Original 2px solid #FF7326 */
     border: 2px solid #FF7326;
 }
-
